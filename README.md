@@ -2,7 +2,7 @@
 
 <h3 style="color:blue;">Author</h3>
 <img src="https://github.com/Kingsoman.png" width="60px;"/>
-<h3><a href="https://github.com/Kingsoman">Kingsley Onyeagusi</a></h3>
+<h4><a href="https://github.com/Kingsoman">Kingsley Onyeagusi</a></h4>
 </br>
 
 <a href="https://www.grin.com/document/1436718">Link to the article</a>
