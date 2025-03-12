@@ -5,7 +5,9 @@
 <h4><sub><a href="https://github.com/Kingsoman">Kingsoman</a></sub></h4>
 </br>
 
-<h3><b></b>Summary</b></h3>
+<a href="https://www.grin.com/document/1436718">Link to the article</a>
+
+<h2><b></b>Summary:</b></h2>
 
 <p>This article explores the critical role of renewable energy and intelligence systems in developing countries seeking to expand energy access and for developed nations working to decarbonise energy systems. The opportunities, challenges, and impacts of the renewable's revolution vary between poor nations with limited existing infrastructure and rich countries possessing advanced technical capabilities. However, data-driven solutions are invaluable in maximising clean energy potential everywhere while managing variability.
 
