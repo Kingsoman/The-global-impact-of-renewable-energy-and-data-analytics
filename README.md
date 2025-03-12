@@ -1,8 +1,8 @@
 # The-global-impact-of-renewable-energy-and-data-analytics
 
-<h3 style="color:blue;">Contributors</h3>
+<h3 style="color:blue;">Author</h3>
 <img src="https://github.com/Kingsoman.png" width="60px;"/>
-<h4><sub><a href="https://github.com/Kingsoman">Kingsoman</a></sub></h4>
+<h3><sub><a href="https://github.com/Kingsoman">Kingsley Onyeagusi</a></sub></h3>
 </br>
 
 <a href="https://www.grin.com/document/1436718">Link to the article</a>
